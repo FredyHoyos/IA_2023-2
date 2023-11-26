@@ -17,4 +17,4 @@ Los datos del proyecto vienen de [La competición Kaggle Predicción de CO2 en R
 ## Videos
 
 - [Video primera entrega](https://youtu.be/BQZJxuXdGqU )
-- [Video primera entrega]([https://youtu.be/BQZJxuXdGqU ](https://youtu.be/QexIoS4KZGc)https://youtu.be/QexIoS4KZGc)
+- [Video primera entrega]([https://youtu.be/BQZJxuXdGqU](https://www.youtube.com/watch?v=QexIoS4KZGc)https://www.youtube.com/watch?v=QexIoS4KZGc )
